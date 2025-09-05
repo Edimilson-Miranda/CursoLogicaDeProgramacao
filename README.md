@@ -7,7 +7,7 @@
 
 
 
-## Conteúdos do curso
+## Conteúdos do curso - Estudado até o momentos
 
  ✅ Variáveis
 
