@@ -1,6 +1,9 @@
 Algoritmo "pagamento"
 
 
+// Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a
+// quantidade de horas trabalhadas por ele(a). Ao final, mostrar o valor do pagamento
+// funcionario com uma mensagem explicativa.
 Var
           nome : caractere
           valorHora, pagamento : real
