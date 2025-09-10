@@ -32,4 +32,4 @@ Inicio
       fimenquanto
 
 
-F  imalgoritmo
+Fimalgoritmo
