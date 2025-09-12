@@ -31,5 +31,5 @@ Inicio
    
    escreval
    escreval("MAIOR VALOR = ", maior:3:2)
-   escreval("POSICAO DO MAIOR VALOR = ", posMaior)
+   escreval("POSICAO DO MAIOR VALOR = ", posicaoMaior)
 Fimalgoritmo
