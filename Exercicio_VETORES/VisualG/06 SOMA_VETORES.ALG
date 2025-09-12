@@ -1,4 +1,4 @@
-Algoritmo "soma_vetor"
+Algoritmo "soma_vetores"
 
 "
 // Disciplina   : [Linguagem e Lógica de Programação]
